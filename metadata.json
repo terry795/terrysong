@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Amazon RAG Agent",
+  "description": "A simulated Retrieval-Augmented Generation (RAG) system for Amazon Sellers. It connects product knowledge bases with an AI agent to draft professional customer support responses.",
+  "requestFramePermissions": []
+}
